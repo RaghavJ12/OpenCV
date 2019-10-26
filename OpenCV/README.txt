@@ -1,2 +1,3 @@
 After loading the image
-Press 'q' or 'esc' to proceed
+=======================
+##Press 'q' or 'esc' to proceed
